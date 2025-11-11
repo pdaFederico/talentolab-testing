@@ -26,7 +26,7 @@ Consultar la siguiente guía redactada por el docente del curso Carlos Arroyo: [
   
   
 <!-- Reportes -->   
-## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/journal-text.svg"> Ejecución de pruebas y reportes  
+<!-- ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/journal-text.svg"> Ejecución de pruebas y reportes --> 
 
  
 <!-- Links -->
