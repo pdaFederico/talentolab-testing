@@ -6,7 +6,7 @@
 <!-- Descripción -->
 ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/info-circle.svg"> Descripción  
 
- Diseño y ejecución de pruebas manuales para el sitio web [Talento Lab](https://talentolab-test.netlify.app/). Prácticas realizadas en el marco del curso **QA MANUAL** brindado por *Talento Tech* entre marzo y julio del 2025.  
+ Diseño y ejecución de pruebas manuales para el sitio web [Talento Lab](https://talento-lab-test-web.netlify.app/). Prácticas realizadas en el marco del curso **QA MANUAL** brindado por *Talento Tech* entre marzo y julio del 2025.  
  A partir de épicas y features se elaboraron las historias de usuario con sus respectivos criterios de aceptación para diseñar casos de pruebas funcionales, no funcionales y exploratorios, tanto en entorno Desktop como Mobile.
 
 <!-- Herramientas -->    
